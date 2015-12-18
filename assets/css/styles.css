@@ -1,0 +1,25 @@
+h1 {font-family: "Monospace",Courier, New;
+	color: blue; 
+	font-size: 56px;
+}
+
+p {
+	color:red;
+	font-size 18px;
+}
+body {
+	background-color: lightblue;
+}
+
+img.center {
+		display: block;
+		margin-left: auto;
+		margin-right: auto
+	}
+
+.jpg
+{
+	width: 100%;
+	z-index: 0;
+}
+
